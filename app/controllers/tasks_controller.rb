@@ -7,5 +7,6 @@ class TasksController < ApplicationController
   end
 
   def create
-  end 
+    binding.pry
+  end
 end
